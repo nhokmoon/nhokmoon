@@ -1,10 +1,13 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 # 💫 About Me:
-- 🔭 I’m currently working at SDVICO company
-- 🌱 I’m currently learning Node.js, advanced Next.js, ...
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with React.js, Next.js, Node.js, Supabase tech stack
+I'm a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
+
+- 🌱 I’m currently learning **TypeScript** and **GraphQL**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 How to reach me: **nhokmoon@example.com**
+- ⚡ Fun fact: I enjoy hiking and photography in my free time.
 - 📫 How to reach me: (+84)0969241387
 
 ## 🌐 Socials:
