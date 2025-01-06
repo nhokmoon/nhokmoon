@@ -6,7 +6,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 🌱 I’m currently learning **TypeScript** and **GraphQL**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **nhokmoon@example.com**
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
 - 📫 How to reach me: (+84)0969241387
 
@@ -49,3 +48,5 @@ I'm a passionate software developer with a keen interest in web development, ope
 ![](https://github-profile-trophy.vercel.app/?username=nhokmoon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=nhokmoon&icon=0&color=3)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nhokmoon&color=blue)
