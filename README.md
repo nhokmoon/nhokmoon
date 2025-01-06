@@ -7,7 +7,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
-- 📫 How to reach me: (+84)0969241387
+- 📫 How to reach me: **tranminhtuan12an3nh2019@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yaeforgers) 
